@@ -1,5 +1,5 @@
 # Emoji-Identifier
-This WebApp was made Along with Tanay Pratap sir during his live YouTube session .
+This WebApp was made Along with **Tanay Pratap sir** during his live YouTube session .
 
 JavaScript and NodeJs are the main Languages Used to make this Web App .
 This WebApp was made using Repl.it
